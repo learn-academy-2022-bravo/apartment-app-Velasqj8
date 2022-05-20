@@ -14,3 +14,27 @@
  *= require_self
  */
 @import 'bootstrap';
+
+.footer {
+    background-color: clear;
+    color: black;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: ceter;
+    text-align: center;
+}
+
+.homeHeader {
+    text-align: center;
+}
+
+.subHomeHeader {
+    text-align: center;
+}
